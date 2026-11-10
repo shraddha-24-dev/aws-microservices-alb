@@ -4,9 +4,6 @@ A microservices deployment on AWS (Mumbai, `ap-south-1`) where a single Applicat
 
 ## Architecture
 
-![Architecture diagram](docs/architecture.png)
-
-> The editable diagram is in [`docs/microserv1.drawio`](docs/microserv1.drawio).
 
 ```
 User -> Internet Gateway -> Application Load Balancer
